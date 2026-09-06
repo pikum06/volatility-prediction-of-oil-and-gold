@@ -98,10 +98,12 @@ When executing the analysis scripts, the runtime follows these steps:
 7. Display comparative charts combining true return distributions, rolling predicted volatility, and 7-day forecast trajectories.
 
 ### Running the Scripts
-#### * Gold Volatility Execution: 
+* Gold Volatility Execution:
+  
 ```python research/gold.py```
 
-#### * Oil Volatility Execution:
+* Oil Volatility Execution:
+  
 ```python research/oil.py```
 
 ## Optimal Model Configurations & Results
